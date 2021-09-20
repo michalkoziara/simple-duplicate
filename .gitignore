@@ -1,3 +1,6 @@
 # Intellij IDEA related specifics
 .idea
 simple-duplicate.iml
+
+# Web extension artifacts
+web-ext-artifacts

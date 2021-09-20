@@ -1,0 +1,11 @@
+@import url("chrome://global/skin/in-content/common.css");
+
+body {
+    height: 100vh;
+    max-width: 400px;
+    color: var(--in-content-page-color)
+}
+
+.padding-5 {
+    padding: 5px
+}
